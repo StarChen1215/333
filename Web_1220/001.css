@@ -1,0 +1,25 @@
+ 
+
+.cat:hover{
+    background-color: gray;
+
+}
+
+h4 {
+    color: brown;
+    background-color: rgba(220, 220, 220, 0.717);
+}
+
+.cat {
+    color: rgb(229, 119, 28);
+}
+
+.dog {
+    color: rgb(140, 42, 165);
+}
+#AAA{
+    color: rgb(26, 208, 41);
+}
+body{
+    background-color:rgb(232, 248, 242);
+}
